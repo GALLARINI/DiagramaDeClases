@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="grupoB_TP.Tarifa">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAACAAAAAAAAgBAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Usuario\source\repos\Pantallas---Version2\ArchivoTarifas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases_TP4.Cliente">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>C:\Users\Usuario\source\repos\Pantallas---Version2\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases_TP4.Cotizacion" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAQAAgAAAAAAAAQAAEEQgABAAAABgAgAAA=</HashCode>
+      <FileName>C:\Users\Usuario\source\repos\Pantallas---Version2\Cotizacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases_TP4.Direccion" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAEAAAAAAAAAAAhACAAAAAABAAQAAAAAQAQ=</HashCode>
+      <FileName>C:\Users\Usuario\source\repos\Pantallas---Version2\Direccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases_TP4.Factura">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAEAAAAAAAAAEAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Usuario\source\repos\Pantallas---Version2\Factura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases_TP4.OrdenDeServicio">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAgAAAAAAAIAAAAEQgAAABAAAgAgAAo=</HashCode>
+      <FileName>C:\Users\Usuario\source\repos\Pantallas---Version2\OrdenDeServicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Version_2___Pantallas.Login">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAIAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Usuario\source\repos\Pantallas---Version2\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramaDeClases.Program">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grupoB_TP.RangoDePesos" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Usuario\source\repos\Pantallas---Version2\RangoDePesos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grupoB_TP.TarifaInternacional">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Usuario\source\repos\Pantallas---Version2\TarifaInternacional.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grupoB_TP.Usuario">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAAAAAAAAAAAAAAAAAAAAQAAAEAAAgAAAAAAAAEAAA=</HashCode>
+      <FileName>C:\Users\Usuario\source\repos\Pantallas---Version2\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="grupoB_TP.Regiones">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAABAgAAAAgAAAAAAAAAAAQAA=</HashCode>
+      <FileName>C:\Users\Usuario\source\repos\Pantallas---Version2\Regiones.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="grupoB_TP.TipoPrecio">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQAAAAAAAAAAABAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>C:\Users\Usuario\source\repos\Pantallas---Version2\TipoPrecio.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
