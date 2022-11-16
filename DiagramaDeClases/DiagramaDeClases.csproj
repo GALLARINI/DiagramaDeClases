@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\Pantallas---Version2\ArchivoTarifas.cs">
-      <Link>ArchivoTarifas.cs</Link>
-    </Compile>
     <Compile Include="..\..\Pantallas---Version2\Cliente.cs">
       <Link>Cliente.cs</Link>
     </Compile>
@@ -58,11 +55,17 @@
     <Compile Include="..\..\Pantallas---Version2\Factura.cs">
       <Link>Factura.cs</Link>
     </Compile>
+    <Compile Include="..\..\Pantallas---Version2\Localidad.cs">
+      <Link>Localidad.cs</Link>
+    </Compile>
     <Compile Include="..\..\Pantallas---Version2\Login.cs">
       <Link>Login.cs</Link>
     </Compile>
     <Compile Include="..\..\Pantallas---Version2\OrdenDeServicio.cs">
       <Link>OrdenDeServicio.cs</Link>
+    </Compile>
+    <Compile Include="..\..\Pantallas---Version2\PaisCiudadInternacional.cs">
+      <Link>PaisCiudadInternacional.cs</Link>
     </Compile>
     <Compile Include="..\..\Pantallas---Version2\RangoDePesos.cs">
       <Link>RangoDePesos.cs</Link>
@@ -72,6 +75,9 @@
     </Compile>
     <Compile Include="..\..\Pantallas---Version2\TarifaInternacional.cs">
       <Link>TarifaInternacional.cs</Link>
+    </Compile>
+    <Compile Include="..\..\Pantallas---Version2\Tarifas.cs">
+      <Link>Tarifas.cs</Link>
     </Compile>
     <Compile Include="..\..\Pantallas---Version2\TipoPrecio.cs">
       <Link>TipoPrecio.cs</Link>
