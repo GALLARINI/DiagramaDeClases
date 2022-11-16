@@ -43,54 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\Pantallas---Version2\Cliente.cs">
-      <Link>Cliente.cs</Link>
-    </Compile>
-    <Compile Include="..\..\Pantallas---Version2\Cotizacion.cs">
-      <Link>Cotizacion.cs</Link>
-    </Compile>
-    <Compile Include="..\..\Pantallas---Version2\Direccion.cs">
-      <Link>Direccion.cs</Link>
-    </Compile>
-    <Compile Include="..\..\Pantallas---Version2\Factura.cs">
-      <Link>Factura.cs</Link>
-    </Compile>
-    <Compile Include="..\..\Pantallas---Version2\Localidad.cs">
-      <Link>Localidad.cs</Link>
-    </Compile>
-    <Compile Include="..\..\Pantallas---Version2\Login.cs">
-      <Link>Login.cs</Link>
-    </Compile>
-    <Compile Include="..\..\Pantallas---Version2\OrdenDeServicio.cs">
-      <Link>OrdenDeServicio.cs</Link>
-    </Compile>
-    <Compile Include="..\..\Pantallas---Version2\PaisCiudadInternacional.cs">
-      <Link>PaisCiudadInternacional.cs</Link>
-    </Compile>
-    <Compile Include="..\..\Pantallas---Version2\RangoDePesos.cs">
-      <Link>RangoDePesos.cs</Link>
-    </Compile>
-    <Compile Include="..\..\Pantallas---Version2\Regiones.cs">
-      <Link>Regiones.cs</Link>
-    </Compile>
-    <Compile Include="..\..\Pantallas---Version2\TarifaInternacional.cs">
-      <Link>TarifaInternacional.cs</Link>
-    </Compile>
-    <Compile Include="..\..\Pantallas---Version2\Tarifas.cs">
-      <Link>Tarifas.cs</Link>
-    </Compile>
-    <Compile Include="..\..\Pantallas---Version2\TipoPrecio.cs">
-      <Link>TipoPrecio.cs</Link>
-    </Compile>
-    <Compile Include="..\..\Pantallas---Version2\Usuario.cs">
-      <Link>Usuario.cs</Link>
-    </Compile>
+    <Compile Include="CiudadadesNacionales.cs" />
+    <Compile Include="CiudadesInternacionales.cs" />
+    <Compile Include="Factura.cs" />
+    <Compile Include="OrdenDeServicio.cs" />
+    <Compile Include="PadronClientes.cs" />
+    <Compile Include="PadronUsuario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recargos.cs" />
+    <Compile Include="Sucursales.cs" />
+    <Compile Include="Tarifas.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="DiagramaClases.cd" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

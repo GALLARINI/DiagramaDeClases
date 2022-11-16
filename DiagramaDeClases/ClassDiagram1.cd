@@ -1,2 +1,67 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Version_2___Pantallas.CiudadadesNacionales">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAEAAAAAAgACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CiudadadesNacionales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Version_2___Pantallas.CiudadesInternacionales">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAQAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CiudadesInternacionales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Version_2___Pantallas.PadronUsuario" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAIEAAAAAIAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PadronUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Version_2___Pantallas.Tarifas">
+    <Position X="4.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tarifas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases_TP4.Factura">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAQAAAAEAAEAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Factura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases_TP4.PadronClientes">
+    <Position X="9.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAQAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>PadronClientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grupoB_TP.OrdenDeServicio">
+    <Position X="6.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAQEgIBAAAAAGAAAAAAAoAAACAAABIIAFQABAgAAg=</HashCode>
+      <FileName>OrdenDeServicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grupoB_TP.Recargos">
+    <Position X="9.5" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAACAAAAAAAAgAAQAAAAAA=</HashCode>
+      <FileName>Recargos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grupoB_TP.Sucursales">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAEAAAAAQhACAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Sucursales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
